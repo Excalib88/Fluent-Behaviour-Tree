@@ -198,7 +198,7 @@ Separately created sub-trees can be spliced into parent trees. This makes it eas
 				{
 					// Action 2.
 					return BehaviourTreeStatus.Success;
-				}); 
+				})
 			.End()
 			.Build();
 	}
